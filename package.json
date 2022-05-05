@@ -1,0 +1,19 @@
+{
+  "name": "serverprova",
+  "version": "1.0.0",
+  "description": "ServerProva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brazeado/ServerProva.git"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brazeado/ServerProva/issues"
+  },
+  "homepage": "https://github.com/brazeado/ServerProva#readme"
+}
